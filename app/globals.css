@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* *{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+
+
+ .boss{
+  background-color: black;
+  color: rgb(114, 135, 255);
+  text-align: center;
+  border-radius: 10px;
+  padding: 15px;
+ }
+
+ #legend{
+  border: 2px;
+  font-size: 200px;
+ } */
